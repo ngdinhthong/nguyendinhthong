@@ -1,0 +1,17 @@
+#thong{
+
+    width: 300px;
+}
+#Profile{
+    width: 500px;
+    height: auto;
+    
+#content{
+    width: 1260px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 200px;
+    box-sizing: border-box ;
+}
